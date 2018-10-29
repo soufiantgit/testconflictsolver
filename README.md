@@ -1,2 +1,2 @@
-# testconflictsolver - this is writen in master 
+# testconflictsolver - this is writen in master --
 --
