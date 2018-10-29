@@ -1,2 +1,1 @@
-# testconflictsolver tis is done to make a conflict
---
+# testconflictsolver - this is writen in master --
